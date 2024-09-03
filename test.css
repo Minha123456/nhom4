@@ -1,0 +1,610 @@
+html{
+    font-family: 'Roboto', sans-serif;
+    font-size: 62.5%;
+    line-height: 1.6rem;
+
+}
+
+#HANGDAU{
+    display: flex;
+    width: 100%;
+    height: 40px;
+}
+
+.the-al{
+    font-size: 14px;
+}
+
+#Z{
+    font-weight: 550;
+    width: 100px;
+    height: 40px;
+}
+
+.HOM{
+    width: 50px;
+    height: 40px;
+    text-align: center;
+
+}
+
+.HOT{
+    width: 100px;
+    height: 40px;
+    align-self: stretch;
+    text-align: center;
+}
+
+
+#HOP{
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 700;
+    font-size: 11px;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+
+#HANGHAI{
+    background-color: rgb(238, 235, 235);
+    width: 100%;
+    height: 150px;
+    padding-left: 62px;
+    padding-top: 24px;
+}
+
+#SP{
+    font-size: 20px;
+    padding-left: 45px;
+}
+
+#CAT{
+    font-size: 11px;
+    padding-left: 45px;
+}
+
+#HANGBA{
+    display: flex;
+    width: 100%;
+    height: 600px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -138px;
+}
+
+#ONE{
+    width: 30%;
+    height: 370px;
+}
+
+#HANGBA1 :hover {
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+
+#HANGBON1 :hover{
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+
+#HANGNAM1 :hover{
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+
+#ONE1{
+    border-radius: 3px;
+    background-color: rgb(108, 117, 124);
+    color: white;
+    border: 1px;
+    font-size: 9px;
+    width: 44px;
+    height: 12px;
+    margin-left: 10px;
+}
+
+#LOR{
+    font-size: 10px;
+    margin-left: 6px;
+}
+
+#READ{
+    font-size: 10px;
+    color: rgb(48, 137, 252);
+}
+
+#TWO{
+    width: 30%;
+    height: 370px;
+}
+
+#ONE2{
+    border-radius: 3px;
+    background-color: rgb(139, 195, 74);
+    color: white;
+    border: 1px;
+    font-size: 9px;
+    width: 50px;
+    height: 11px;
+    margin-left: 10px;
+}
+
+#THREE{
+    width: 30%;
+    height: 370px;
+}
+
+#ONE3{
+    border-radius: 3px;
+    background-color: rgb(248, 157, 20);
+    color: white;
+    border: 1px;
+    font-size: 9px;
+    width: 50px;
+    height: 11px;
+    margin-left: 10px;
+}
+
+#ANHBA{
+    border-radius: 3px;
+    height: 40%;
+    width: 100%;
+}
+
+#ANHX{
+    width: 10%;
+    height: 8%;
+}
+
+#car-font{
+    font-size: 10px;
+    margin-left: 3px;
+}
+
+#BY{
+    font-size: 10px;
+    font-weight: 10;
+    margin-left: 6px;
+    color: rgb(190, 190, 190);
+}
+
+#JU{
+    font-weight: 100;
+    font-size: 10px;
+    color: rgb(190, 190, 190);
+}
+
+#HANGBON{
+    display: flex;
+    width: 100%;
+    height: 600px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -188px;
+}
+
+#FOUR{
+    width: 30%;
+    height: 370px;
+}
+
+#FIVE{
+    width: 30%;
+    height: 370px;
+}
+
+#SIX{
+    width: 30%;
+    height: 370px;
+}
+
+#ONE6{
+    border-radius: 3px;
+    background-color: rgb(242, 58, 47);
+    color: white;
+    border: 1px;
+    font-size: 9px;
+    width: 50px;
+    height: 11px;
+    margin-left: 10px;  
+}
+
+#HANGNAM{
+    display: flex;
+    width: 100%;
+    height: 600px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -188px;
+}
+
+#SEVEN{
+    width: 30%;
+    height: 370px;
+}
+
+#EIGHT{
+    width: 30%;
+    height: 370px;
+}
+
+#NINE{
+    width: 30%;
+    height: 370px;
+}
+
+#ONE8{
+    border-radius: 3px;
+    background-color: rgb(242, 58, 47);
+    color: white;
+    border: 1px;
+    font-size: 9px;
+    width: 50px;
+    height: 11px;
+    margin-left: 10px; 
+}
+
+#ONE81{
+    border-radius: 3px;
+    background-color: rgb(108, 117, 124);
+    color: white;
+    border: 1px;
+    font-size: 9px;
+    width: 27px;
+    height: 9px;
+    margin-left: -1px;
+    text-align: center;
+}
+
+#ONE9{
+    border-radius: 3px;
+    background-color: rgb(248, 157, 20);
+    color: white;
+    border: 1px;
+    font-size: 9px;
+    width: 50px;
+    height: 11px;
+    margin-left: -1px;
+}
+  
+#HANGBA1{
+    width: 80%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+
+}
+
+#HANGBON1{
+    width: 80%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+}
+
+#HANGNAM1{
+    width: 80%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+}
+
+#HANGSAU{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#HANGSAU :hover{
+    cursor: pointer;
+    border: 1px solid ghostwhite;
+    background-color: aqua;
+    color: blue;
+}
+
+.HANGSAU2{
+    border-radius: 11px;
+    background-color: rgb(48, 137, 252);
+    color: white;
+    border: 1px;
+    height: 20px;
+}
+
+.HANGSAU1{
+    border-radius: 11px;
+    background-color: white;
+    color: black;
+    border: 1px;
+    height: 20px;
+}
+
+#HANGBAY{
+    background-color: rgb(51, 51, 51);
+    width: 100%;
+    height: 150px;
+    display: flex;
+
+
+}
+
+.img-time {
+    display: flex;
+    align-items: center;
+    margin-left: 3px;
+}
+
+#AB{
+    color: white;
+    font-size: 10px;
+    margin-bottom: 12px;
+    margin-left: 101px;
+    margin-top: 39px;
+}
+
+#LOREM{
+    color: rgb(115, 115, 115);
+    font-size: 9px;
+    margin-left: 101px;
+
+}
+
+#HANGBAY1{
+    width: 35%;
+    height: 80%;
+
+}
+
+.AB-2{
+    font-size: 9px;
+    color: gray;
+    margin-left: 39px;
+    margin-bottom: 6px;
+}
+
+#HANGBAY2-3{
+    margin-top: 40px;
+    margin-right: 6px;
+}
+
+#CO-1{
+    color: white;
+    font-size: 10px;
+    margin-left: 65px;
+    margin-top: 40px;
+}
+
+#HANGBAY4{
+    height: 80%;
+    width: 40%;
+}
+
+#icon-1{
+    display: flex;
+    margin-left: 60px;
+    margin-top: 9px;
+    justify-content: space-around;
+    margin-right: 210px;
+}
+
+.icon-2{
+    font-size: 15px;
+}
+
+.icon-2 a{
+    color: black;
+}
+
+#HANGTAM{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(51, 51, 51);
+    padding-top: 10px;
+}
+
+#COPY1{
+    color: rgb(115, 115, 115);
+    font-size: 9px;
+    margin-left: 230px;
+}
+
+#FAS{
+    display: none;
+}
+
+#TYM{
+    color: red;
+}
+/* ipad  mini*/
+ @media (max-width: 968px ) {
+        .container{
+            height: 5
+            
+            
+            
+            000px;
+            width: 100%;
+        }    
+        h4 {
+            font-size: 30px;
+        }
+
+        
+        html{
+        width: 100%;
+        height: 2500px;
+        }
+
+        #FAS{
+            justify-content: flex-end;
+            display: flex;
+        }
+
+        #AB{
+            margin-left: 88px;
+            margin-bottom: 5px;
+            margin-top: 24px;
+        }
+
+        #LOREM{
+            margin-left: 72px;
+        }
+
+        #LOR{
+            font-size: 40px;
+            line-height: 25px;
+
+        }
+
+        #CO-1{
+            margin-left: 28px;
+        }
+
+        #COPY1{
+            margin-left: 170px;
+        }
+
+        #HOP{
+            display: none;
+        }
+
+        #HANGDAU{
+            margin-left: 34px;
+        }
+
+        #HANGBA1{
+            display: block;
+            width: 100%;
+            height: 310px;
+        }
+
+        #ONE{
+            width: 100%;
+            height: 400px;
+            font-size: 50px;
+            margin-left: -1px;
+        }
+
+        #TWO{
+            margin-top: 315px;
+            width: 100%;
+            height: 400px;
+            font-size: 50px;
+            margin-left: -1px;
+        }
+
+        #READ{
+            font-size: 20px;
+        }
+
+        #BY{
+            font-size: 20px;
+        }
+
+        #car-font{
+            font-size: 20px;
+        }
+
+        #JU{
+            font-size: 20px;
+        }
+
+        #ANHX{
+            width: 5%;
+            height: 6%;
+        }
+
+        #THREE{
+            width: 100%;
+            height: 400px;
+            font-size: 50px;
+            margin-left: -1px;
+            margin-top: 315px;
+        }
+
+        #ANHBA{
+            width: 100%;
+            height: 90%;
+        }
+
+        #HANGBON{
+            display: block;
+        }
+
+        #HANGBON1{
+            display: block;
+            margin-top: 1761px;
+            width: 100%;
+            height: 310px;
+        }
+
+        #FOUR{
+            width: 100%;
+            height: 400px;
+            font-size: 50px;
+            margin-left: -1px;
+            margin-top: 315px;
+        }
+
+        #FIVE{
+            margin-top: 315px;
+        }
+
+        #HANGNAM1{
+            display: block;
+            margin-top: 2783px;
+        }
+
+        #HANGBAY1{
+            width: 50%;
+        }
+
+        #HANGBAY2-3{
+            margin-right: -14px;
+        }
+
+        
+
+        #HANGBAY4{
+            width: 30%;
+            margin-left: 95px;
+        }
+
+
+    }
+/* ip xr */
+
+@media (max-width: 768px){
+    h4 {
+        font-size: 25px;
+    }
+
+
+    #HANGHAI{
+        padding-left: 4px;
+    }
+
+    #CAT{
+        padding-left: 40px;
+        font-size: 9px;
+    }
+
+    #SP{
+        padding-left: 40px;
+        font-size: 17px;
+    }
+
+    #LOR{
+        font-size: 17px;
+    }
+
+
+    #HOP{
+        display: none;
+    }
+}
