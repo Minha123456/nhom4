@@ -1,0 +1,75 @@
+.carousel-inner img {
+    height: 400px;
+    /* Set the desired height */
+    object-fit: cover;
+    /* This ensures the image will be cropped to fit the container */
+}
+
+.carousel-caption h5 {
+    font-size: 2rem;
+    /* Larger title text */
+    font-weight: bold;
+    /* Bold title */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+    /* Text shadow for readability */
+}
+
+.carousel-caption p {
+    font-size: 1.2rem;
+    /* Larger body text */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+    /* Text shadow for readability */
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Semi-transparent background */
+    padding: 10px;
+    /* Padding for space around text */
+    border-radius: 10px;
+    /* Rounded corners for background */
+    bottom: 20%;
+    /* Adjust position slightly upwards */
+}
+
+.product-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
+
+footer .bi {
+    fill: white;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #f8f9fa;
+}
+
+
+@media (max-width: 768px) {
+    .carousel-caption h5 {
+        font-size: 1.5rem;
+        /* Adjust title size on smaller screens */
+    }
+
+    .carousel-caption p {
+        font-size: 1rem;
+        /* Adjust body text size on smaller screens */
+    }
+
+    .carousel-caption {
+        bottom: 15%;
+        /* Move captions further up for smaller screens */
+    }
+}
